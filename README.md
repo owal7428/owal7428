@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Owen!
-- 👀 I’m interested in software development!
-- 🌱 I’m currently studying Computer Science at the University of Colorado Boulder!
+Student at CU
 
 <!---
 owal7428/owal7428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
